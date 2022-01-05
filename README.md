@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning python
 - 📫 How to reach me: redryan5154@gmail.com (if you are interested in my work)
 
-print(f"Have a grat day {user}")
+print(f"Have a great day {user}")
